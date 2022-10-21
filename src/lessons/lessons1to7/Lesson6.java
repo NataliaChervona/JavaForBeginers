@@ -1,9 +1,6 @@
-package lessons;
+package lessons.lessons1to7;
 
-import homework.HW4;
-import homework.HW5;
-
-public class Lessons6 {
+public class Lesson6 {
 
     public static void main(String[] args){
 

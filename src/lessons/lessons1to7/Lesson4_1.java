@@ -1,8 +1,6 @@
-package lessons;
+package lessons.lessons1to7;
 
-import org.w3c.dom.ls.LSOutput;
-
-public class Lesson41 {
+public class Lesson4_1 {
 
     public static void main(String[] args) {
         task10(5);
